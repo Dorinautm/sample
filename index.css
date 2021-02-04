@@ -1,0 +1,17 @@
+.card {
+  width: 50%;
+  height: 30rem;
+  margin-left: 25%;
+  margin-right: -10%;
+}
+
+section {
+  padding-top: 20px;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+}
+h5 {
+  font-family: "Nunito", sans-serif;
+}
